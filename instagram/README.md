@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/static/v1?label=java-version&message=%3E=11&color=blue) ![documentation](https://img.shields.io/static/v1?label=documentation&message=yes&color=green) ![maintanined?](https://img.shields.io/static/v1?label=MySQL?&message=yes&color=green) ![License](https://img.shields.io/static/v1?label=Linsenced&message=ZAHID&color=orange)
 
 README file for INSTAGRAM PROJECT
-## 🏠  [Homepage](https://github.com/ZahidFarooqDar/weekly-tests/tree/main/instagram)
+## 🏠  [Homepage](https://github.com/ZahidFarooqDar/fs-10-Weekly-tests/tree/main/instagram)
 ## Prerequisities
 * java >=11.0
 * Spring Boot
